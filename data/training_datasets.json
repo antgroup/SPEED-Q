@@ -1,0 +1,352 @@
+{
+  "sharegpt4v_instruct_gpt4-vision_cap100k": {
+    "root": "/home/usr/VLM-Datasets/images/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/sharegpt4v_instruct_gpt4-vision_cap100k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 102021
+  },
+  "llava_instruct_150k_zh": {
+    "root": "/home/usr/VLM-Datasets/images/coco/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/llava_instruct_150k_zh.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 157712
+  },
+  "sharegpt4v_mix665k_cap23k_coco-ap9k_lcs3k_sam9k_div2k": {
+    "root": "/home/usr/VLM-Datasets/images/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/sharegpt4v_mix665k_cap23k_coco-ap9k_lcs3k_sam9k_div2k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 665058
+  },
+  "dvqa_train_200k": {
+    "root": "/home/usr/VLM-Datasets/images/dvqa/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/dvqa_train_200k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 200000
+  },
+  "chartqa_train_18k": {
+    "root": "/home/usr/VLM-Datasets/images/chartqa/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/opensource_chartqa_train_18k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 18317
+  },
+  "ai2d_train_12k": {
+    "root": "/home/usr/VLM-Datasets/images/ai2d/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/opensource_ai2d_train_12k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 12413
+  },
+  "docvqa_train_10k": {
+    "root": "/home/usr/VLM-Datasets/images/docvqa/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/docvqa_train_10k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 10211
+  },
+  "geoqa+": {
+    "root": "/home/usr/VLM-Datasets/images/geoqa+/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/geoqa+.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 72318
+  },
+  "synthdog_en": {
+    "root": "/home/usr/VLM-Datasets/images/synthdog-en/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/synthdog_en.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 29765
+  },
+  "sharegpt-4o-image": {
+    "root": "/home/usr/VLM-Datasets/images/sharegpt-4o/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/gpt-4o.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 57289
+  },
+  "mminstruct_caption_cn": {
+    "root": "/home/usr/VLM-Datasets/images/mminstruct/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/mminstruct_caption_cn.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 143548
+  },
+  "mminstruct_caption_en": {
+    "root": "/home/usr/VLM-Datasets/images/mminstruct/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/mminstruct_caption_en.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 18176
+  },
+  "mminstruct_qa_en": {
+    "root": "/home/usr/VLM-Datasets/images/mminstruct/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/mminstruct_qa_en.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 216462
+  },
+  "sroie-ocr": {
+    "root": "/home/usr/VLM-Datasets/images/SROIE/train/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/sroie_ocr.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 33626
+  },
+  "ALLaVA-Instruct-LAION-4V": {
+    "root": "/home/usr/VLM-Datasets/images/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/ALLaVA-Instruct-LAION-4V.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 468668
+  },
+  "ALLaVA-Caption-LAION-4V": {
+    "root": "/home/usr/VLM-Datasets/images/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/ALLaVA-Caption-LAION-4V.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 468668
+  },
+  "Instruct-LAION-4oiterative": {
+    "root": "/home/usr/VLM-Datasets/images/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/Instruct-LAION-4oiterative.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 49932
+  },
+  "Instruct-LAION-4v_gemini_claude-ensembled": {
+    "root": "/home/usr/VLM-Datasets/images/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/Instruct-LAION-4v_gemini_claude-ensembled.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 49946
+  },
+  "screen-qa": {
+    "root": "/home/usr/VLM-Datasets/images/screenqa/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/screenqa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 209098
+  },
+  "multi-vqa": {
+    "root": "/home/usr/VLM-Datasets/multi-images/multi_vqa/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/multi_vqa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 4993
+  },
+  "spot-the-diff": {
+    "root": "/home/usr/VLM-Datasets/multi-images/spot_the_diff/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/spot_the_diff.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 8007
+  },
+  "birds-to-words": {
+    "root": "/home/usr/VLM-Datasets/multi-images/birds_to_words/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/birds_to_words.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 2649
+  },
+  "nlvr2": {
+    "root": "/home/usr/VLM-Datasets/multi-images/nlvr2/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/nlvr2.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 86373
+  },
+  "sharegpt-4o-video": {
+    "root": "/home/usr/VLM-Datasets/videos/pvideo/",
+    "annotation": "/home/usr/VLM-Datasets/annotations/gpt4o_video_conversations.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 2111
+  },
+  "0_30_s_academic_mc_v0_1_qa": {
+    "root": "/home/usr/VLM-Datasets/videos/LLaVA-Video/",
+    "annotation": "/home/usr/VLM-Datasets/videos/LLaVA-Video/0_30_s_academic_v0_1/0_30_s_academic_mc_v0_1_qa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 5753
+  },
+  "0_30_s_academic_oe_v0_1_qa": {
+    "root": "/home/usr/VLM-Datasets/videos/LLaVA-Video/",
+    "annotation": "/home/usr/VLM-Datasets/videos/LLaVA-Video/0_30_s_academic_v0_1/0_30_s_academic_oe_v0_1_qa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 48468
+  },
+  "0_30_s_academic_v0_1_cap": {
+    "root": "/home/usr/VLM-Datasets/videos/LLaVA-Video/",
+    "annotation": "/home/usr/VLM-Datasets/videos/LLaVA-Video/0_30_s_academic_v0_1/0_30_s_academic_v0_1_cap.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 11985
+  },
+  "0_30_s_youtube_mc_v0_1_qa": {
+    "root": "/home/usr/VLM-Datasets/videos/LLaVA-Video/",
+    "annotation": "/home/usr/VLM-Datasets/videos/LLaVA-Video/0_30_s_youtube_v0_1/0_30_s_youtube_mc_v0_1_qa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 39353
+  },
+  "0_30_s_youtube_v0_1_cap": {
+    "root": "/home/usr/VLM-Datasets/videos/LLaVA-Video/",
+    "annotation": "/home/usr/VLM-Datasets/videos/LLaVA-Video/0_30_s_youtube_v0_1/0_30_s_youtube_v0_1_cap.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 79345
+  },
+  "0_30_s_youtube_oe_v0_1_qa": {
+    "root": "/home/usr/VLM-Datasets/videos/LLaVA-Video/",
+    "annotation": "/home/usr/VLM-Datasets/videos/LLaVA-Video/0_30_s_youtube_v0_1/0_30_s_youtube_oe_v0_1_qa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 420196
+  },
+  "30_60_s_academic_mc_v0_1_qa": {
+    "root": "/home/usr/VLM-Datasets/videos/LLaVA-Video/",
+    "annotation": "/home/usr/VLM-Datasets/videos/LLaVA-Video/30_60_s_academic_v0_1/30_60_s_academic_mc_v0_1_qa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 20346
+  },
+  "30_60_s_academic_oe_v0_1_qa": {
+    "root": "/home/usr/VLM-Datasets/videos/LLaVA-Video/",
+    "annotation": "/home/usr/VLM-Datasets/videos/LLaVA-Video/30_60_s_academic_v0_1/30_60_s_academic_oe_v0_1_qa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 57924
+  },
+  "30_60_s_academic_v0_1_cap": {
+    "root": "/home/usr/VLM-Datasets/videos/LLaVA-Video/",
+    "annotation": "/home/usr/VLM-Datasets/videos/LLaVA-Video/30_60_s_academic_v0_1/30_60_s_academic_v0_1_cap.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 10514
+  },
+  "30_60_s_youtube_mc_v0_1_qa": {
+    "root": "/home/usr/VLM-Datasets/videos/LLaVA-Video/",
+    "annotation": "/home/usr/VLM-Datasets/videos/LLaVA-Video/30_60_s_youtube_v0_1/30_60_s_youtube_mc_v0_1_qa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 39927
+  },
+  "30_60_s_youtube_oe_v0_1_qa": {
+    "root": "/home/usr/VLM-Datasets/videos/LLaVA-Video/",
+    "annotation": "/home/usr/VLM-Datasets/videos/LLaVA-Video/30_60_s_youtube_v0_1/30_60_s_youtube_oe_v0_1_qa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 110618
+  },
+  "30_60_s_youtube_v0_1_cap": {
+    "root": "/home/usr/VLM-Datasets/videos/LLaVA-Video/",
+    "annotation": "/home/usr/VLM-Datasets/videos/LLaVA-Video/30_60_s_youtube_v0_1/30_60_s_youtube_v0_1_cap.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 19994
+  },
+  "0_30_s_activitynetqa_oe_qa": {
+    "root": "/home/usr/VLM-Datasets/videos/LLaVA-Video/",
+    "annotation": "/home/usr/VLM-Datasets/videos/LLaVA-Video/0_30_s_activitynetqa/0_30_s_activitynetqa_oe_qa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 2950
+  },
+  "0_30_s_nextqa_mc_qa": {
+    "root": "/home/usr/VLM-Datasets/videos/LLaVA-Video/",
+    "annotation": "/home/usr/VLM-Datasets/videos/LLaVA-Video/0_30_s_nextqa/0_30_s_nextqa_mc_qa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 5496
+  },
+  "0_30_s_nextqa_oe_qa": {
+    "root": "/home/usr/VLM-Datasets/videos/LLaVA-Video/",
+    "annotation": "/home/usr/VLM-Datasets/videos/LLaVA-Video/0_30_s_nextqa/0_30_s_nextqa_oe_qa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 5492
+  },
+  "30_60_s_activitynetqa_oe_qa": {
+    "root": "/home/usr/VLM-Datasets/videos/LLaVA-Video/",
+    "annotation": "/home/usr/VLM-Datasets/videos/LLaVA-Video/30_60_s_activitynetqa/30_60_s_activitynetqa_oe_qa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 4530
+  },
+  "30_60_s_nextqa_mc_qa": {
+    "root": "/home/usr/VLM-Datasets/videos/LLaVA-Video/",
+    "annotation": "/home/usr/VLM-Datasets/videos/LLaVA-Video/30_60_s_nextqa/30_60_s_nextqa_mc_qa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 6843
+  },
+  "30_60_s_nextqa_oe_qa": {
+    "root": "/home/usr/VLM-Datasets/videos/LLaVA-Video/",
+    "annotation": "/home/usr/VLM-Datasets/videos/LLaVA-Video/30_60_s_nextqa/30_60_s_nextqa_oe_qa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 6843
+  },
+  "30_60_s_perceptiontest_mc_qa": {
+    "root": "/home/usr/VLM-Datasets/videos/LLaVA-Video/",
+    "annotation": "/home/usr/VLM-Datasets/videos/LLaVA-Video/30_60_s_perceptiontest/30_60_s_perceptiontest_mc_qa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 618
+  },
+  "code-feedback": {
+    "root": "",
+    "annotation": "/home/usr/InternVL-training/datasets/text_datasets/code-feedback.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 66383
+  },
+  "firefly-train-1.1M": {
+    "root": "",
+    "annotation": "/home/usr/InternVL-training/datasets/text_datasets/firefly-train-1.1M.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 1649399
+  },
+  "WizardLM_evol_instruct_70k": {
+    "root": "",
+    "annotation": "/home/usr/InternVL-training/datasets/text_datasets/WizardLM_evol_instruct_70k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 70000
+  },
+  "long_instruction_paraphrasing_slim": {
+    "root": "",
+    "annotation": "/home/usr/InternVL-training/datasets/text_datasets/long_instruction_paraphrasing_slim.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 9471
+  },
+  "math-qa": {
+    "root": "",
+    "annotation": "/home/usr/InternVL-training/datasets/text_datasets/math-qa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 35000
+  },
+  "magpie-qwen2-pro-1M": {
+    "root": "",
+    "annotation": "/home/usr/InternVL-training/datasets/text_datasets/magpie-qwen2-pro-1M.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 1000000
+  },
+  "0_30_s_perceptiontest_mc_qa": {
+    "root": "/home/usr/VLM-Datasets/videos/LLaVA-Video/",
+    "annotation": "/home/usr/VLM-Datasets/videos/LLaVA-Video/0_30_s_perceptiontest/0_30_s_perceptiontest_mc_qa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 1785
+  }
+}
