@@ -1,8 +1,7 @@
 <h1 align='left'>SPEED-Q</h1>
 
 <div align='left'>
-    <a href='https://arxiv.org/2511.08914'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-    <a href='https://huggingface.co/BadToBest'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow'></a>
+    <a href='https://arxiv.org/abs/2511.08914'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 </div>
 
 This is an official implementation of **"SPEED-Q: Staged Processing with Enhanced Distillation Towards Efficient Low-Bit On-Device VLM Quantization"** in AAAI 2026. It's a novel framework for low-bit on-device weight-only VLM quantization.
@@ -122,7 +121,7 @@ python run.py --data SEEDBench_IMG --model ${model_name} --verbose
 | Status | Milestone                                                                |     
 |:--------:|:-------------------------------------------------------------------------|
 |    ✅    | Open-source release of SPEED-Q code on GitHub   | 
-|    🚀    | Release the `InternVL3-1B-2/4bit-SPEED-Q` models on Hugging Face, including both ViT and VLM components with quantized weights and corresponding dequantized floating-point weights |
+|    🚀    | Release the `InternVL3-1B-2bit/4bit-SPEED-Q` models on Hugging Face, including both ViT and VLM components with quantized weights and corresponding dequantized floating-point weights |
 |    🚀    | Provide comprehensive documentation and code for quantization parameters |
 
 
