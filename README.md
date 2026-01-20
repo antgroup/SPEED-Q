@@ -48,7 +48,7 @@ These demos showcase **on-device inference in a completely offline environment**
 
 ![Python >=3.10](https://img.shields.io/badge/Python->=3.10-yellow.svg)    ![PyTorch >=2.0](https://img.shields.io/badge/PyTorch->=2.0-blue.svg)
 
-- Tested GPUs: A100(80G) / PPUE (80G)
+- Tested GPUs: A100(80G)
 
 ```bash
 # Install libraries
