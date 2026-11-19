@@ -13,7 +13,7 @@ pycocoevalcap
 pyyaml
 scikit-learn>=1.2.2
 scipy
-sentencepiece==0.1.99
+sentencepiece==0.2.1
 shortuuid
 tensorboardX
 termcolor
